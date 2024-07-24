@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\views\\guestcontroller1\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:views\\guestcontroller1\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\views\\guestcontroller1\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:views\\guestcontroller1\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\views\\guestcontroller1\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:views\\guestcontroller1\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\views\\guestcontroller1\\career.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:views\\guestcontroller1\\career.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\views\\guestcontroller1\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:views\\guestcontroller1\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\controllers\\guestcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:controllers\\guestcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|e:\\nikita\\nikita\\.net\\.net core (framework)\\jobportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7EE419F-A64C-44DF-B605-6D608E4A0606}|JobPortal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\GuestController1\\ContactUs.cshtml",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\GuestController1\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T16:48:05.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\Services.cshtml",
+              "RelativeDocumentMoniker": "Views\\GuestController1\\Services.cshtml",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\Services.cshtml",
+              "RelativeToolTip": "Views\\GuestController1\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T16:48:01.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Career.cshtml",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\Career.cshtml",
+              "RelativeDocumentMoniker": "Views\\GuestController1\\Career.cshtml",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\Career.cshtml",
+              "RelativeToolTip": "Views\\GuestController1\\Career.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T16:00:50.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T16:23:20.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T16:02:49.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\GuestController1\\Home.cshtml",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\Home.cshtml",
+              "RelativeToolTip": "Views\\GuestController1\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAADJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:55:42.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\GuestController1\\AboutUs.cshtml",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Views\\GuestController1\\AboutUs.cshtml",
+              "RelativeToolTip": "Views\\GuestController1\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T15:55:40.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:44:04.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuestController1.cs",
+              "DocumentMoniker": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Controllers\\GuestController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\GuestController1.cs",
+              "ToolTip": "E:\\Nikita\\Nikita\\.Net\\.Net Core (Framework)\\JobPortal\\Controllers\\GuestController1.cs",
+              "RelativeToolTip": "Controllers\\GuestController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:25:56.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
